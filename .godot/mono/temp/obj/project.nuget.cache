@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZB5lIRWx4zb+ey89fmdqoZXsqQzZVtYsHkvr6KxnhoIQJfJqFJU/0y5DlNIk/CK21cYTupGb1JBF6H8xSlw0mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Haddis Woldemicheal\\Documents\\dev shit\\game dev\\Godot\\rpg-project-pls-finish\\rpg project pls finish.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haddis Woldemicheal\\.nuget\\packages\\godot.sourcegenerators\\4.4.1\\godot.sourcegenerators.4.4.1.nupkg.sha512",
+    "C:\\Users\\Haddis Woldemicheal\\.nuget\\packages\\godotsharp\\4.4.1\\godotsharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\Haddis Woldemicheal\\.nuget\\packages\\godotsharpeditor\\4.4.1\\godotsharpeditor.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
